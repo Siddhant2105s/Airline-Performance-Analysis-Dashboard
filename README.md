@@ -25,7 +25,7 @@ The data used in this project includes:
 
 2. airlines.csv: Information about the airlines.
 
-3. flights.csv: Detailed flight data (ample file uploaded. Original file size was too large
+3. flights.csv: Detailed flight data (Sample file uploaded. Original file size was too large
    
 ## Tableau Dashboard
 
