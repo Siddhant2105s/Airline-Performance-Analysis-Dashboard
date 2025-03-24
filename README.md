@@ -25,8 +25,8 @@ The data used in this project includes:
 
 2. airlines.csv: Information about the airlines.
 
-3. flights.csv: Detailed flight data (not included due to size).
-
+3. flights.csv: Detailed flight data (ample file uploaded. Original file size was too large
+   
 ## Tableau Dashboard
 
 The dashboard created for this project provides a comprehensive overview of flight delays, cancellations, and their reasons. Below is a screenshot of the dashboard:
